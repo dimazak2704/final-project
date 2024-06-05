@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="빼기_70" data-name="빼기 70" d="M13460,6230h-91v-94h91v94Zm-59.148-18.936h0l-8.5,2.892,5.2,5.932,8.249-2.209,1.78-.476-6.729-6.138Zm45.559-47.224-.54,5.523,10.357,2.692.212-5.526-8.252-2.212-1.777-.477Z" transform="translate(-8765.5 -3710.498)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="_sm-a556_top4-feature_icon_04_security" data-name="[sm-a556]top4-feature_icon_04_security" transform="translate(-4600 -2424)">
+    <rect id="사각형_2681" data-name="사각형 2681" width="96" height="96" transform="translate(4600 2424)" fill="none"/>
+    <g id="마스크_그룹_21" data-name="마스크 그룹 21" clip-path="url(#clip-path)">
+      <path id="패스_7198" data-name="패스 7198" d="M-8683.532-3675.714v-17.1l-12.678-4.021v8.828l-12.078-3.908v-8.556l-12.5-4.1-12.117,4.1v8.556l-12.473,3.908v-8.828l-12.441,4.021v9.319s-.023,10.166,2.455,16.678c.178.079,34.576-11.117,34.576-11.117l35.04,11.117s-2.029,8.61-5.036,13.805c-.071.248-30-9.025-30-9.025l-29.354,9.394s4.032,7.948,8.231,12.742c-.015.122,21.122-6.013,21.122-6.013l20.474,6.874s-9.841,12.4-20.474,18.555c-.092.361-12.119-8.275-14.642-11.494" transform="translate(13368.519 6134.747)" fill="none" stroke="#000" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
